@@ -19,4 +19,4 @@ _italic_
 
 [Link](https://www.markdownguide.org/cheat-sheet/)
 
-![Image](image.jpg)
+![Image](stevens.jpg)
