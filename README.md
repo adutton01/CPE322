@@ -17,6 +17,6 @@ _italic_
 
 ---
 
-[title](https://www.markdownguide.org/cheat-sheet/)
+[Link](https://www.markdownguide.org/cheat-sheet/)
 
-![alt text](image.jpg)
+![Image](image.jpg)
